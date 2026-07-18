@@ -1,0 +1,10 @@
+{
+    "name": "VTU Notify Hub Pro",
+    "slug": "vtu-notify-hub",
+    "version": "1.0.1",
+    "author": "Your Name",
+    "download_url": "https://githubusercontent.com",
+    "sections": {
+        "description": "Premium features for VTU Notify Hub including automated payment processing and multi-channel routing."
+    }
+}
